@@ -17,4 +17,4 @@ Este script PHP crea un backup completo de una base de datos MySQL, incluyendo e
 * Realiza pruebas exhaustivas antes de utilizar este script en producción.
 
 **Opcional:**
-* Puedes aportar al proyecto realizando tus correcciones y serán implementadas
+* Puedes aportar al proyecto realizando tus correcciones para ser implementadas
